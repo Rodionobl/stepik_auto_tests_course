@@ -1,2 +1,1 @@
-# stepik_auto_tests_course
-Homework
+тут будет мое домашнее задание по автотестам
